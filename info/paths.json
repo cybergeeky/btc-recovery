@@ -1,0 +1,449 @@
+{
+  "paths": [
+    {
+      "_path": "include/python3.8/bsddb3/bsddb.h",
+      "path_type": "hardlink",
+      "sha256": "4efec84f218368bcf03ac6670456c18f92c91630543be1bcab5f12a8948551e2",
+      "size_in_bytes": 10497
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3-6.2.9.dist-info/INSTALLER",
+      "path_type": "hardlink",
+      "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3-6.2.9.dist-info/LICENSE.txt",
+      "path_type": "hardlink",
+      "sha256": "3ce75f9d66ea5ae52a374e5ef22d25e4429f033ad621256304b22731f08352a9",
+      "size_in_bytes": 1756
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3-6.2.9.dist-info/METADATA",
+      "path_type": "hardlink",
+      "sha256": "8d929e558bd3f6bdb85235b0c7ac34e715155eae6bdb67c4b2294d7238cafc08",
+      "size_in_bytes": 3227
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3-6.2.9.dist-info/RECORD",
+      "path_type": "hardlink",
+      "sha256": "034dda4757c9d9bfbeedfca5e1098ba86573ca439e91166915f03367ee0a6679",
+      "size_in_bytes": 5255
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3-6.2.9.dist-info/REQUESTED",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3-6.2.9.dist-info/WHEEL",
+      "path_type": "hardlink",
+      "sha256": "bbcf79b81e052239b5a6e71c4da3d3979edda2b8e7704632810c48b4a1ebfd3d",
+      "size_in_bytes": 108
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3-6.2.9.dist-info/direct_url.json",
+      "path_type": "hardlink",
+      "sha256": "6b97019c95f0894db6b692941a98a093db07ff30f4acf931e7eb150af46918c4",
+      "size_in_bytes": 94
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3-6.2.9.dist-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "0a3867913be0d61b396bc833e5f017448404e91788681c45a9f7adbdaef3902c",
+      "size_in_bytes": 20
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "1a6f53013a7d8ecc0f03f3e3a25b0f4e6a9b6a3c7b1a93b5a13002286d26ea13",
+      "size_in_bytes": 14771
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/__pycache__/__init__.cpython-38.pyc",
+      "path_type": "hardlink",
+      "sha256": "d778d9c8a7299f7060033b4f023b3fb8e6090fab29fc96f6700655425de952f9",
+      "size_in_bytes": 9728
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/__pycache__/db.cpython-38.pyc",
+      "path_type": "hardlink",
+      "sha256": "cad77b2c10f8267baa99ed29c4e528ebd06e062171c1fea657b1afb899d4a010",
+      "size_in_bytes": 294
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/__pycache__/dbobj.cpython-38.pyc",
+      "path_type": "hardlink",
+      "sha256": "a2fca167c08e8cbd5a94113cdec073541f58716745d39015f4c4b66d527c4dcc",
+      "size_in_bytes": 14387
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/__pycache__/dbrecio.cpython-38.pyc",
+      "path_type": "hardlink",
+      "sha256": "242194980c81ace1b1a913be211f7613cfd184a74506c06f0dc63428bd001f0f",
+      "size_in_bytes": 4446
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/__pycache__/dbshelve.cpython-38.pyc",
+      "path_type": "hardlink",
+      "sha256": "172ae59a7e5e991e7eeb92ce94707649c8c4b6a4bc0151aa75a50f4d8e27e55d",
+      "size_in_bytes": 10621
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/__pycache__/dbtables.cpython-38.pyc",
+      "path_type": "hardlink",
+      "sha256": "047c2c0bab302071cc621e0092cf6828febc7039aa375a24eadaa444abf4dd55",
+      "size_in_bytes": 20905
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/__pycache__/dbutils.cpython-38.pyc",
+      "path_type": "hardlink",
+      "sha256": "f1e3cbb5aad8c16c8568a1849457c4daccf0b5fe2e25e699270bdc50b7a291b4",
+      "size_in_bytes": 1420
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/_pybsddb.cpython-38-darwin.so",
+      "path_type": "hardlink",
+      "sha256": "97846671489cf75f51e641528631a46b3daac51d1e2d63a2319a1f55698b651c",
+      "size_in_bytes": 204544
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/db.py",
+      "path_type": "hardlink",
+      "sha256": "dd6d81b7844a9557dee554e2fdbe7039b46de16bf268bc4ef13fe486d11a0518",
+      "size_in_bytes": 2196
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/dbobj.py",
+      "path_type": "hardlink",
+      "sha256": "ce35b8ded93a288f38357d0a28f799b0a10a1626310578e477adc0f46405e219",
+      "size_in_bytes": 11012
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/dbrecio.py",
+      "path_type": "hardlink",
+      "sha256": "8aac12c8fc2c178394e2b6e468f450174531575fa341858665a2eaa7b90c2a19",
+      "size_in_bytes": 5308
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/dbshelve.py",
+      "path_type": "hardlink",
+      "sha256": "dc22617c1e40231c8e804c822a4715934fb018c53ac1ed00964bb6d55f17717c",
+      "size_in_bytes": 10744
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/dbtables.py",
+      "path_type": "hardlink",
+      "sha256": "0ce74749b9a0849fa1d4387ffbc9222df44bc2006bd48e696c5a7a25eafccfb0",
+      "size_in_bytes": 30208
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/dbutils.py",
+      "path_type": "hardlink",
+      "sha256": "ba171af892a7c670bf9cf6ebbb2f6cf4c4ed125e801456122d6d848958771882",
+      "size_in_bytes": 2904
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/__pycache__/__init__.cpython-38.pyc",
+      "path_type": "hardlink",
+      "sha256": "896c96410b0bdf72a4e27b955c7f7f67086b3ac34b8a4ca8551838e6aba57d89",
+      "size_in_bytes": 143
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/__pycache__/test_all.cpython-38.pyc",
+      "path_type": "hardlink",
+      "sha256": "95d8d59d3dd161d68487b4141a5e63a3801ad4b73c5cf41a2a84d7c0ffc697bb",
+      "size_in_bytes": 21750
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/__pycache__/test_associate.cpython-38.pyc",
+      "path_type": "hardlink",
+      "sha256": "3916900ac5b8642ce24f5bc69026ba053ac29f3c7f3e815f0f35b4df7c963f05",
+      "size_in_bytes": 15918
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/__pycache__/test_basics.cpython-38.pyc",
+      "path_type": "hardlink",
+      "sha256": "838124954a77cbf4df2f5ae78dc81967e43b52400468768f9e4c96495eaf3c7f",
+      "size_in_bytes": 30796
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/__pycache__/test_compare.cpython-38.pyc",
+      "path_type": "hardlink",
+      "sha256": "f97d6fcd55c9c0120bf69e62e3cbaf5c791d912e57da3c72a68322518bfdf90c",
+      "size_in_bytes": 18250
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/__pycache__/test_compat.cpython-38.pyc",
+      "path_type": "hardlink",
+      "sha256": "8656514d42d3abaceba124ab488962f32e03153c8d2368b4085350c91ddde59f",
+      "size_in_bytes": 6207
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/__pycache__/test_cursor_pget_bug.cpython-38.pyc",
+      "path_type": "hardlink",
+      "sha256": "fcbbe91cf2b864f5768a9bc4c6fd68661b788e1a2faca93765b74c21f8ae8ff7",
+      "size_in_bytes": 3728
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/__pycache__/test_db.cpython-38.pyc",
+      "path_type": "hardlink",
+      "sha256": "94516c545c9e86030cf04ab5d5f5871945529e0da1241ecc12c60af061181c65",
+      "size_in_bytes": 8611
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/__pycache__/test_dbenv.cpython-38.pyc",
+      "path_type": "hardlink",
+      "sha256": "8d8a1bd1c7f55009678e9535d754306c9033136b3e5c131bd7e5e402a911c554",
+      "size_in_bytes": 19869
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/__pycache__/test_dbobj.cpython-38.pyc",
+      "path_type": "hardlink",
+      "sha256": "77ac5cbc137fb2fd51636b1c931c4865de8667533533c227435e353515f8fe63",
+      "size_in_bytes": 4546
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/__pycache__/test_dbshelve.cpython-38.pyc",
+      "path_type": "hardlink",
+      "sha256": "768bb50f22c7a1255f66b4acf4a5dfd51b84fb1c0b632332add753880eb41a4b",
+      "size_in_bytes": 12928
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/__pycache__/test_dbtables.cpython-38.pyc",
+      "path_type": "hardlink",
+      "sha256": "abaf6b694b07e991ada64338b9b643e2b74bf955908f0a8a0e880f178ceb757c",
+      "size_in_bytes": 9653
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/__pycache__/test_distributed_transactions.cpython-38.pyc",
+      "path_type": "hardlink",
+      "sha256": "cf99f78d4396b22b0fe86d9175dee0e06c890c661175f4e4130a2612e70876a0",
+      "size_in_bytes": 5865
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/__pycache__/test_early_close.cpython-38.pyc",
+      "path_type": "hardlink",
+      "sha256": "b393a8bf3403b369cb7f4b859361cb9ec08a0efdfef74b93f4136e5c2676c7cf",
+      "size_in_bytes": 7354
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/__pycache__/test_fileid.cpython-38.pyc",
+      "path_type": "hardlink",
+      "sha256": "0632bf87d57aecd04f80bf6c3f7effb2fbd8fd82104851200d4ad9e38702e969",
+      "size_in_bytes": 3483
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/__pycache__/test_get_none.cpython-38.pyc",
+      "path_type": "hardlink",
+      "sha256": "82644bd86bae53ceae81c4eb0f91fbc567fbdb7db358effc18169ae985a5de85",
+      "size_in_bytes": 3954
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/__pycache__/test_join.cpython-38.pyc",
+      "path_type": "hardlink",
+      "sha256": "3305c6bb25a4329453d4f336bb187eca3ba9dad043713a5529a18114f6382038",
+      "size_in_bytes": 4378
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/__pycache__/test_lock.cpython-38.pyc",
+      "path_type": "hardlink",
+      "sha256": "ab9ba0cf4e2efcef779d4a331ce2822f2419981ffa11e6c559f51f91f5b9e924",
+      "size_in_bytes": 6455
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/__pycache__/test_misc.cpython-38.pyc",
+      "path_type": "hardlink",
+      "sha256": "c15d9c223edf50afe4ced3c185b6df1f294fae9fa74a08e831057febc205d680",
+      "size_in_bytes": 5819
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/__pycache__/test_pickle.cpython-38.pyc",
+      "path_type": "hardlink",
+      "sha256": "67b041c3e7e40565d9c0fd323dbe292de945679d02c4664a9ddf56a86d913f70",
+      "size_in_bytes": 3944
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/__pycache__/test_queue.cpython-38.pyc",
+      "path_type": "hardlink",
+      "sha256": "2662beb9596b88147efad0775e655bd166fc53fbabf752af52983666e0c0a5a7",
+      "size_in_bytes": 4948
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/__pycache__/test_recno.cpython-38.pyc",
+      "path_type": "hardlink",
+      "sha256": "0e969e5a5cd77e34ed9e6044ce1172961e0aebea97b8217f86ff9c7615ac46ce",
+      "size_in_bytes": 8035
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/__pycache__/test_replication.cpython-38.pyc",
+      "path_type": "hardlink",
+      "sha256": "6b2fa22bdd486735e2f3846b6018e3d060c5e2a3ae051076c9615c05dc468c41",
+      "size_in_bytes": 14232
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/__pycache__/test_sequence.cpython-38.pyc",
+      "path_type": "hardlink",
+      "sha256": "95566ee02f455ed601b69ab6891a93c896c70031797bcf76f6c8a1f28bbbd826",
+      "size_in_bytes": 6782
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/__pycache__/test_thread.cpython-38.pyc",
+      "path_type": "hardlink",
+      "sha256": "1bf0e034c9c91459fa46cab7ad305fd74c9cb6e9648d8b6e0e4ba86bd5b0bcad",
+      "size_in_bytes": 13780
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/test_all.py",
+      "path_type": "hardlink",
+      "sha256": "cdbda2854267e121de8132dcb69663f63e914215ead7dd1eac953ad3e42d6e44",
+      "size_in_bytes": 20936
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/test_associate.py",
+      "path_type": "hardlink",
+      "sha256": "133f522dca8a8ddb0aeba6100c6aa23deabd45a966f310270c78e486ec4ba6da",
+      "size_in_bytes": 16641
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/test_basics.py",
+      "path_type": "hardlink",
+      "sha256": "81537db7216f90bb010b783255f749e193a2111e178e0433beacd6e10c414028",
+      "size_in_bytes": 36485
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/test_compare.py",
+      "path_type": "hardlink",
+      "sha256": "65e409cf80f785cbafdf18ef308e4e10372062f46b8481b9042542db11f4c581",
+      "size_in_bytes": 16476
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/test_compat.py",
+      "path_type": "hardlink",
+      "sha256": "e039861d9ecddb39180414b8fd31346f2029ccdb7432fb99c51d2c2480e24186",
+      "size_in_bytes": 6164
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/test_cursor_pget_bug.py",
+      "path_type": "hardlink",
+      "sha256": "6246f3f9484a6625e60ea2ca4d67db91b8c4782ff44c7da449c5c7bb856cef87",
+      "size_in_bytes": 3496
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/test_db.py",
+      "path_type": "hardlink",
+      "sha256": "dd19c6e7d95d7a9f6b224b836b7335db1990318d9b89924245530e368ea0a42f",
+      "size_in_bytes": 7322
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/test_dbenv.py",
+      "path_type": "hardlink",
+      "sha256": "84ff70b2a94647e21d61c4e5fcb7c468509e07aec9d868ee2efb39b89168caef",
+      "size_in_bytes": 19771
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/test_dbobj.py",
+      "path_type": "hardlink",
+      "sha256": "afa882116645b8fa2098c2e0bf22e14c2985501c7ef721c8743f2ca14dc6ef19",
+      "size_in_bytes": 4026
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/test_dbshelve.py",
+      "path_type": "hardlink",
+      "sha256": "924e0b0b893dcbd74c940007951d591f5e9d69e51a3ceb0442ec729c3ac7837b",
+      "size_in_bytes": 13106
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/test_dbtables.py",
+      "path_type": "hardlink",
+      "sha256": "1e520da0649894a054c37e703b480bd366c1d6c52df2e501356a845fcce93974",
+      "size_in_bytes": 15365
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/test_distributed_transactions.py",
+      "path_type": "hardlink",
+      "sha256": "f6ac795b78f13a662f98b63758a77b2e4c6a8fddb1cef871bb7f6aa0938d3734",
+      "size_in_bytes": 6377
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/test_early_close.py",
+      "path_type": "hardlink",
+      "sha256": "669a25e40d88d14494def23cca62672d1cd08228aa729ab0f2f5f6deed3034ea",
+      "size_in_bytes": 8147
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/test_fileid.py",
+      "path_type": "hardlink",
+      "sha256": "1431c2140ec181c5cf7b89867d5908ac8dfc3c61f1e0c608b4acccaa350fe13f",
+      "size_in_bytes": 3414
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/test_get_none.py",
+      "path_type": "hardlink",
+      "sha256": "8d3aaedfc99fa4b5a5fe4f1cecdd1aa02361d09489b075307214752d3d11708b",
+      "size_in_bytes": 3906
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/test_join.py",
+      "path_type": "hardlink",
+      "sha256": "3347f2701f10399529036dde332849f5af35a6cb4968c78fa275d05f3a004d0d",
+      "size_in_bytes": 4801
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/test_lock.py",
+      "path_type": "hardlink",
+      "sha256": "e89f81470df3518516f1721d226cc4de99b42753b7083683e420eba8bcd15486",
+      "size_in_bytes": 7824
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/test_misc.py",
+      "path_type": "hardlink",
+      "sha256": "490f77d3ab8f82ac7e5662f552314d624ce32f11abdea46a9f3af63a0ae53927",
+      "size_in_bytes": 6505
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/test_pickle.py",
+      "path_type": "hardlink",
+      "sha256": "1e17ba1492c7ac895d5f36866cbaba55cb58241e071b4d687f47c26031cf1519",
+      "size_in_bytes": 3595
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/test_queue.py",
+      "path_type": "hardlink",
+      "sha256": "7f2c5bfdbeb56e681f56f61164703c72e332bc6b3586b55257d916d3155a8f0f",
+      "size_in_bytes": 5649
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/test_recno.py",
+      "path_type": "hardlink",
+      "sha256": "493db51cc4452d2facd74a577fdeeae0ac0178d579e628a4202db70117c3ae87",
+      "size_in_bytes": 9936
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/test_replication.py",
+      "path_type": "hardlink",
+      "sha256": "81b0438a84d9882d164f44294c1cd83940169ca66e49b5207d57fa6252595838",
+      "size_in_bytes": 21693
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/test_sequence.py",
+      "path_type": "hardlink",
+      "sha256": "52bf4a18a1ec7af936396373c82ec6b05ac3af478c188fffd4134f9bb86dc3af",
+      "size_in_bytes": 6824
+    },
+    {
+      "_path": "lib/python3.8/site-packages/bsddb3/tests/test_thread.py",
+      "path_type": "hardlink",
+      "sha256": "24832a90c530280abd3b51e5663201c995207935b4486cdec59088e8a16929f8",
+      "size_in_bytes": 17242
+    }
+  ],
+  "paths_version": 1
+}

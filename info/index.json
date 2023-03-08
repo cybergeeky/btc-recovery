@@ -1,0 +1,18 @@
+{
+  "arch": "arm64",
+  "build": "py38hb991d35_4",
+  "build_number": 4,
+  "depends": [
+    "libdb >=6.2.32,<6.3.0a0",
+    "python >=3.8,<3.9.0a0",
+    "python >=3.8,<3.9.0a0 *_cpython",
+    "python_abi 3.8.* *_cp38"
+  ],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "name": "bsddb3",
+  "platform": "osx",
+  "subdir": "osx-arm64",
+  "timestamp": 1666892891806,
+  "version": "6.2.9"
+}
