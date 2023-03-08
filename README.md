@@ -1,1 +1,2 @@
-# btc-recovery
+# *BTC recovery* #
+*BTC recovery* is a wallet recovery and extraction tool. For these service to work, your wallet information is needed. There is a premium tool for extracting these information, but all require advanced linux shell knowledge to access the terminal. This tool provides a GUI to do the extracting(Note,these is not the complete code). Additionally it only extracts the information needed for bruteforcing the password. **It doesn't extract information that can be used to access your funds**.(DM FOR FULL SCRIPT TO ACCESS YOUR FUNDS). https://t.me/cybergeeky
